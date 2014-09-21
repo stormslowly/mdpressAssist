@@ -1,0 +1,15 @@
+{
+  "name": "mdpress-assistant",
+  "version": "0.0.0",
+  "description": "an assistant for mdpress ",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "commander": "~2.3.0",
+    "lodash": "~2.4.1"
+  }
+}
